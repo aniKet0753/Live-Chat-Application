@@ -11,8 +11,9 @@ etc.. and for frontend like react tailwindCss etc... see all dependency in json 
 thn u willl see the localhost and u can connect on my each route and talk to friends.
 
 -> ithe interface of my webpage look like this:
+![WhatsApp Image 2025-06-11 at 13 20 23_1c288b10](https://github.com/user-attachments/assets/2b160781-4c92-4eee-b42a-2f7ea79dd75b)
 
-![WhatsApp Image 2025-06-11 at 08 44 07_5c5fa8f0](https://github.com/user-attachments/assets/f1f183fb-284c-46b1-8773-87396dc7daca)
-![WhatsApp Image 2025-06-11 at 08 41 01_dff5f2ad](https://github.com/user-attachments/assets/21a63d6e-07e6-4f6b-b112-f9393ef855b4)
+
+![WhatsApp Image 2025-06-11 at 08 44 07_5c5fa8f0](https://github.com/user-attachments/assets/7a5ad97a-003d-4a21-87c3-5e97562accfa)
 
 pls feel free to ask me anything....
